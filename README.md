@@ -1,4 +1,4 @@
-# Review Prediction
+# Flipkart Review Prediction
 Review prediction web app on Yonex Shuttle 
 
 <h3>Objective</h3>
